@@ -133,7 +133,7 @@ EnglishTwo = \lyricmode
 	\set stanza = #"2. "
 	They4 look2 -- ed4 up2
 		and4 saw2 a4 star2
-	Shin8 -- ning8 in2 the4 East,2
+	Shin8 -- ing8 in2 the4 East,2
 		be4 -- yond2 them4 far,2
 	And4 to2 the4 earth2
 		it4 gave2 great4 light,2
